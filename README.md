@@ -1,75 +1,137 @@
-<h2 align="center"> Transforming Code into Impact </h2>
+<!-- HERO SECTION: Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=50&lines=Hi+I'm+Muhammad+Saad;Software+Engineer+%7C+MERN+Stack+%7C+Web+Developer+%7C+AI+Explorer" alt="Typing Intro Animation" />
+</p>
+
+<h1 align="center">Transforming Code into Impact</h1>
+
+<h3 align="center">
+   Final Year Software Engineering Student &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Software%20Engineering%20Student-blue" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Full--Stack--Developer-orange" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cloud%20Computing%20Explorer-lightgrey" /></a>
+  <a href="https://www.linkedin.com/in/your-link-here/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saadm24c@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saadm24c@gmail.com-red?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-###  About Me
+## About Me
 
--  Final Year Software Engineering Student  
--  Passionate Full-Stack Developer  
--  Currently learning MERN Stack. 
--  Interested in problem-solving, visualizations, and UI/UX development  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Student;Building+Dynamic+Web+Applications;Creating+Solutions+Through+Code" alt="About Me Animation" />
+</div>
 
----
+<br/>
 
-###  My Toolbox
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php,mysql,mongodb,threejs,git,github,vscode,figma,cpp,java,py,linux" />
-
----
-
-###  GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=destructorbawa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=destructorbawa&layout=compact&theme=tokyonight)
-
----
-
-###  Featured Projects
-
-**🔹 Pathfinding Visualizer**  
-💡 An interactive pathfinding visualizer built with **React** and **Tailwind CSS**. This tool helps users understand pathfinding algorithms by dynamically showing their behavior step by step in a grid interface.  
-📁 [Code](https://github.com/destructorbawa/Pathfinding-Visualizer)
-
----
-
-**🔹 University_Website**  
-💡 A modern, responsive university website designed to showcase academic life and programs. Built with **HTML**, **CSS**, **JavaScript**, and **PHP**, it includes features like contact forms, informational pages, and a user-friendly layout.  
-📁 [Code](https://github.com/destructorbawa/University_Website)
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+      <br><strong>Full-Stack Development</strong>
+      <br><em>MERN Stack</em>
+      <br><em>Modern Web Apps</em>
+    </td>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="AI"/>
+      <br><strong>AI & ML</strong>
+      <br><em>Exploring APIs</em>
+      <br><em>Data-Driven Apps</em>
+    </td>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="Backend"/>
+      <br><strong>Backend & Scripting</strong>
+      <br><em>PHP, Node.js</em>
+      <br><em>MySQL, MongoDB</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
-**🔹 Simple Weather App**  
-💡 A sleek and responsive weather application that fetches real-time data using the **OpenWeatherMap API**. Demonstrates strong API usage, responsive design, and clean UI implementation.  
-📁 [Code](https://github.com/destructorbawa/Simple_Weather_App)
+## My Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,cpp,java,py,linux" />
+</p>
 
 ---
 
-**🔹 PS5 3D Model Rotation**  
-💡 A 3D visualization of a PlayStation 5 console using **Three.js**. The app renders and automatically rotates PS5 game models inside the browser, ideal for display and demonstration.  
-📁 [Code](https://github.com/destructorbawa/PS5-Games-3D-Model-Rotation)
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=destructorbawa&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destructorbawa&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
 
 ---
 
-###  Currently Exploring
+## Featured Projects
 
--  Full-Stack Development with the MERN Stack
--  System Design & Architecture
--  Advanced Web Development and Responsive Design
--  Basics of Artificial Intelligence and ML APIs
--  Modern Front-End Frameworks like React & Next.js
+<!-- Row 1 -->
+<div align="center">
+
+  <a href="https://github.com/destructorbawa/Pathfinding-Visualizer" title="Pathfinding Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=Pathfinding-Visualizer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+  <a href="https://github.com/destructorbawa/University_Website" title="University Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+</div><br/>
+
+<!-- Row 2 -->
+<div align="center">
+
+  <a href="https://github.com/destructorbawa/Simple_Weather_App" title="Simple Weather App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=Simple_Weather_App&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+  <a href="https://github.com/destructorbawa/PS5-Games-3D-Model-Rotation" title="PS5 3D Model Rotation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=PS5-Games-3D-Model-Rotation&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+</div>
+
 ---
 
-### 📫 Connect with Me
+## Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)  
-📧 Email: saadm24c@gmail.com
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+and+Building..." alt="Current Focus Animation" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="React" />
+      <br/>
+      <h3>React & Next.js</h3>
+      <p><em>Building modern UI/UX interfaces</em></p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" alt="Cloud" />
+      <br/>
+      <h3>Web APIs & AI</h3>
+      <p><em>Exploring AI APIs and automation</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-> 💬 *“Code is not just syntax, it's a way of thinking.”*  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=destructorbawa&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">"Write code that others not only understand, but admire."</p>
