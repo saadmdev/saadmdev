@@ -56,7 +56,7 @@
 ## My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,c,c++,java,py,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,cpp,java,py,linux" />
 </p>
 
 ---
