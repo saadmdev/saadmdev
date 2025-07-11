@@ -82,8 +82,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=Pathfinding-Visualizer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
-  <a href="https://github.com/destructorbawa/University_Website" title="University Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  <a href="https://github.com/destructorbawa/ocean-explorer" title="Ocean Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=ocean-explorer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
 </div><br/>
@@ -100,7 +100,6 @@
   </a>
 
 </div>
-
 ---
 
 ## Current Focus
