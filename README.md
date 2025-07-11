@@ -56,7 +56,7 @@
 ## My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,cpp,java,py,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,c,c++,java,py,linux" />
 </p>
 
 ---
@@ -91,8 +91,8 @@
 <!-- Row 2 -->
 <div align="center">
 
-  <a href="https://github.com/destructorbawa/Simple_Weather_App" title="Simple Weather App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=Simple_Weather_App&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  <a href="https://github.com/destructorbawa/University_Website" title="University Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
   <a href="https://github.com/destructorbawa/PS5-Games-3D-Model-Rotation" title="PS5 3D Model Rotation">
@@ -100,6 +100,7 @@
   </a>
 
 </div>
+
 ---
 
 ## Current Focus
