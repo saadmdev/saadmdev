@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here/">
+  <a href="https://www.linkedin.com/in/muhammad-saad-0b8266365/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saadm24c@gmail.com">
@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## 🔹 About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Student;Building+Dynamic+Web+Applications;Creating+Solutions+Through+Code" alt="About Me Animation" />
@@ -53,7 +53,7 @@
 
 ---
 
-## My Toolbox
+## 🔹 My Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,cpp,java,py,linux" />
@@ -61,29 +61,29 @@
 
 ---
 
-## GitHub Stats
+## 🔹 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=destructorbawa&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destructorbawa&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## Featured Projects
+## 🔹 Featured Projects
 
 <!-- Row 1 -->
 <div align="center">
 
-  <a href="https://github.com/destructorbawa/Pathfinding-Visualizer" title="Pathfinding Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=Pathfinding-Visualizer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  <a href="https://github.com/saadmdev/Pathfinding-Visualizer" title="Pathfinding Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=Pathfinding-Visualizer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
-  <a href="https://github.com/destructorbawa/ocean-explorer" title="Ocean Explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=ocean-explorer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  <a href="https://github.com/saadmdev/ocean-explorer" title="Ocean Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=ocean-explorer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
 </div><br/>
@@ -91,19 +91,19 @@
 <!-- Row 2 -->
 <div align="center">
 
-  <a href="https://github.com/destructorbawa/University_Website" title="University Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  <a href="https://github.com/saadmdev/University_Website" title="University Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
-  <a href="https://github.com/destructorbawa/PS5-Games-3D-Model-Rotation" title="PS5 3D Model Rotation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=destructorbawa&repo=PS5-Games-3D-Model-Rotation&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  <a href="https://github.com/saadmdev/PS5-Games-3D-Model-Rotation" title="PS5 3D Model Rotation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=PS5-Games-3D-Model-Rotation&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
 </div>
 
 ---
 
-## Current Focus
+## 🔹 Current Focus
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+and+Building..." alt="Current Focus Animation" />
@@ -131,7 +131,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=destructorbawa&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=saadmdev&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">"Write code that others not only understand, but admire."</p>
