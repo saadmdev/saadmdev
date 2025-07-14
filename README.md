@@ -95,6 +95,15 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
 
+  <a href="https://github.com/saadmdev/Simple_Weather_App" title="Simple Weather App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=Simple_Weather_App&theme=react&border_color=61dafb&border_radius=10" height="150"/>
+  </a>
+
+</div><br/>
+
+<!-- Row 3 -->
+<div align="center">
+
   <a href="https://github.com/saadmdev/PS5-Games-3D-Model-Rotation" title="PS5 3D Model Rotation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=PS5-Games-3D-Model-Rotation&theme=react&border_color=61dafb&border_radius=10" height="150"/>
   </a>
