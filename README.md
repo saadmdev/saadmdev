@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/muhammad-saad-0b8266365/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:saadm24c@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadm24c@gmail.com-red?logo=gmail&logoColor=white" />
+  <a href="mailto:devsaadm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devsaadm@gmail.com-red?logo=gmail&logoColor=white" />
   </a>
 </p>
 
