@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-saad-0b8266365/">
+  <a href="https://www.linkedin.com/in/muhammad-saad-a4779b38a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devsaadm@gmail.com">
