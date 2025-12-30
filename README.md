@@ -61,61 +61,95 @@
 
 ---
 
-## 🔹 GitHub Stats
+## GitHub Activity Overview
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=react&hide_border=true&include_all_commits=true"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=react&hide_border=true"
-  />
-</p>
+- Public repositories showcasing full-stack and frontend projects
+- Consistent use of JavaScript across multiple domains
+- Active development in MERN stack–based applications
+- Hands-on work with algorithms, backend logic, and interactive UI
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=saadmdev&theme=react&hide_border=true"
-  />
-</p>
+### Repository Highlights
+Most active repositories include:
+- Full-stack MERN eCommerce platform
+- Car rental management system
+- Algorithm visualization tools
+- Interactive 3D web experiences
+
+To view detailed contribution statistics and language usage, please refer to the repositories section above or visit:
+https://github.com/saadmdev?tab=repositories
 
 ---
 
-## 🔹 Featured Projects
+## Featured Projects
+
+The following projects represent my strongest practical work in full-stack development, system design, and interactive web applications.  
+Each project demonstrates problem-solving ability, clean implementation, and real-world applicability.
+
+---
+
+### Full-Stack MERN eCommerce Platform
+A complete eCommerce system built using the MERN stack, featuring secure authentication, product management, cart and wishlist functionality, order processing, and an administrative dashboard.
+
+**Key Highlights**
+- User authentication and authorization
+- Product, cart, and order management
+- Admin panel for full system control
+- RESTful API architecture
+
+**Technologies**
+React, Node.js, Express.js, MongoDB, JavaScript
+
+**Repository**
+https://github.com/saadmdev/fullstack-ecommerce-mern
+
+---
+
+### Car Rental Management System
+A web-based system designed to manage vehicle rentals, bookings, and availability, focusing on clarity, usability, and backend logic.
+
+**Key Highlights**
+- Vehicle listing and availability handling
+- Rental and booking management
+- Structured backend logic
+- Scalable system design
+
+**Technologies**
+JavaScript, Backend Logic, Web Application Design
+
+**Repository**
+https://github.com/saadmdev/car-rental-management-system
+
+---
 
 ### Pathfinding Visualizer
-Visualizes shortest path algorithms with real-time animations and interactive controls.  
-**Tech:** JavaScript, Algorithms, UI Logic  
+An interactive visualization tool that demonstrates shortest-path algorithms through real-time animations and user interaction.
+
+**Key Highlights**
+- Visual representation of algorithms
+- Real-time animation and controls
+- Educational and performance-focused design
+
+**Technologies**
+JavaScript, Algorithms, UI Logic
+
+**Repository**
 https://github.com/saadmdev/Pathfinding-Visualizer
 
 ---
 
 ### Ocean Explorer
-An immersive web experience focused on ocean-themed visuals and 3D interaction.  
-**Tech:** Three.js, JavaScript, WebGL  
+A visually immersive web experience focused on ocean-themed exploration using interactive 3D elements and smooth animations.
+
+**Key Highlights**
+- Interactive 3D visuals
+- Web-based rendering techniques
+- Focus on user experience and performance
+
+**Technologies**
+Three.js, JavaScript, WebGL
+
+**Repository**
 https://github.com/saadmdev/ocean-explorer
-
----
-
-### University Website
-A complete academic website representing a university’s digital presence.  
-**Tech:** HTML, CSS, JavaScript  
-https://github.com/saadmdev/University_Website
-
----
-
-### Simple Weather App
-Fetches and displays real-time weather data using external APIs.  
-**Tech:** JavaScript, REST APIs  
-https://github.com/saadmdev/Simple_Weather_App
-
----
-
-### PS5 Games 3D Model Rotation
-Interactive 3D model rotation project for showcasing game assets.  
-**Tech:** Three.js, JavaScript  
-https://github.com/saadmdev/PS5-Games-3D-Model-Rotation
 
 ---
 
