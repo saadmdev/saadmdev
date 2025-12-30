@@ -56,100 +56,51 @@
 ## 🔹 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,php,mysql,mongodb,threejs,git,github,vscode,figma,cpp,java,py,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,php,mysql,mongodb,postgres,redis,threejs,git,github,githubactions,docker,nginx,vercel,netlify,vscode,postman,figma,cpp,java,py,bash,linux" />
 </p>
 
 ---
 
-## GitHub Activity Overview
+## 🔹 GitHub Stats
 
-- Public repositories showcasing full-stack and frontend projects
-- Consistent use of JavaScript across multiple domains
-- Active development in MERN stack–based applications
-- Hands-on work with algorithms, backend logic, and interactive UI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+</p>
 
-### Repository Highlights
-Most active repositories include:
-- Full-stack MERN eCommerce platform
-- Car rental management system
-- Algorithm visualization tools
-- Interactive 3D web experiences
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
 
-To view detailed contribution statistics and language usage, please refer to the repositories section above or visit:
-https://github.com/saadmdev?tab=repositories
 
 ---
 
-## Featured Projects
+## 🔹 Featured Projects
 
-The following projects represent my strongest practical work in full-stack development, system design, and interactive web applications.  
-Each project demonstrates problem-solving ability, clean implementation, and real-world applicability.
+<!-- Row 1 -->
+<div align="center">
 
----
+  <a href="https://github.com/saadmdev/fullstack-ecommerce-mern" title="Full Stack MERN eCommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=fullstack-ecommerce-mern&theme=react&hide_border=true" height="150"/>
+  </a>
 
-### Full-Stack MERN eCommerce Platform
-A complete eCommerce system built using the MERN stack, featuring secure authentication, product management, cart and wishlist functionality, order processing, and an administrative dashboard.
+  <a href="https://github.com/saadmdev/car-rental-management-system" title="Car Rental Management System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=car-rental-management-system&theme=react&hide_border=true" height="150"/>
+  </a>
 
-**Key Highlights**
-- User authentication and authorization
-- Product, cart, and order management
-- Admin panel for full system control
-- RESTful API architecture
+</div><br/>
 
-**Technologies**
-React, Node.js, Express.js, MongoDB, JavaScript
+<!-- Row 2 -->
+<div align="center">
 
-**Repository**
-https://github.com/saadmdev/fullstack-ecommerce-mern
+  <a href="https://github.com/saadmdev/Pathfinding-Visualizer" title="Pathfinding Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=Pathfinding-Visualizer&theme=react&hide_border=true" height="150"/>
+  </a>
 
----
+  <a href="https://github.com/saadmdev/ocean-explorer" title="Ocean Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=ocean-explorer&theme=react&hide_border=true" height="150"/>
+  </a>
 
-### Car Rental Management System
-A web-based system designed to manage vehicle rentals, bookings, and availability, focusing on clarity, usability, and backend logic.
-
-**Key Highlights**
-- Vehicle listing and availability handling
-- Rental and booking management
-- Structured backend logic
-- Scalable system design
-
-**Technologies**
-JavaScript, Backend Logic, Web Application Design
-
-**Repository**
-https://github.com/saadmdev/car-rental-management-system
-
----
-
-### Pathfinding Visualizer
-An interactive visualization tool that demonstrates shortest-path algorithms through real-time animations and user interaction.
-
-**Key Highlights**
-- Visual representation of algorithms
-- Real-time animation and controls
-- Educational and performance-focused design
-
-**Technologies**
-JavaScript, Algorithms, UI Logic
-
-**Repository**
-https://github.com/saadmdev/Pathfinding-Visualizer
-
----
-
-### Ocean Explorer
-A visually immersive web experience focused on ocean-themed exploration using interactive 3D elements and smooth animations.
-
-**Key Highlights**
-- Interactive 3D visuals
-- Web-based rendering techniques
-- Focus on user experience and performance
-
-**Technologies**
-Three.js, JavaScript, WebGL
-
-**Repository**
-https://github.com/saadmdev/ocean-explorer
+</div>
 
 ---
 
