@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-saad-a4779b38a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Saad-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:devsaadm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-devsaadm@gmail.com-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-devsaadm@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -64,51 +64,58 @@
 ## 🔹 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=react&hide_border=true&include_all_commits=true"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=react&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img
+    src="https://streak-stats.demolab.com?user=saadmdev&theme=react&hide_border=true"
+  />
 </p>
 
 ---
 
 ## 🔹 Featured Projects
 
-<!-- Row 1 -->
-<div align="center">
+### Pathfinding Visualizer
+Visualizes shortest path algorithms with real-time animations and interactive controls.  
+**Tech:** JavaScript, Algorithms, UI Logic  
+https://github.com/saadmdev/Pathfinding-Visualizer
 
-  <a href="https://github.com/saadmdev/Pathfinding-Visualizer" title="Pathfinding Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=Pathfinding-Visualizer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
+---
 
-  <a href="https://github.com/saadmdev/ocean-explorer" title="Ocean Explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=ocean-explorer&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
+### Ocean Explorer
+An immersive web experience focused on ocean-themed visuals and 3D interaction.  
+**Tech:** Three.js, JavaScript, WebGL  
+https://github.com/saadmdev/ocean-explorer
 
-</div><br/>
+---
 
-<!-- Row 2 -->
-<div align="center">
+### University Website
+A complete academic website representing a university’s digital presence.  
+**Tech:** HTML, CSS, JavaScript  
+https://github.com/saadmdev/University_Website
 
-  <a href="https://github.com/saadmdev/University_Website" title="University Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=University_Website&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
+---
 
-  <a href="https://github.com/saadmdev/Simple_Weather_App" title="Simple Weather App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=Simple_Weather_App&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
+### Simple Weather App
+Fetches and displays real-time weather data using external APIs.  
+**Tech:** JavaScript, REST APIs  
+https://github.com/saadmdev/Simple_Weather_App
 
-</div><br/>
+---
 
-<!-- Row 3 -->
-<div align="center">
-
-  <a href="https://github.com/saadmdev/PS5-Games-3D-Model-Rotation" title="PS5 3D Model Rotation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=PS5-Games-3D-Model-Rotation&theme=react&border_color=61dafb&border_radius=10" height="150"/>
-  </a>
-
-</div>
+### PS5 Games 3D Model Rotation
+Interactive 3D model rotation project for showcasing game assets.  
+**Tech:** Three.js, JavaScript  
+https://github.com/saadmdev/PS5-Games-3D-Model-Rotation
 
 ---
 
