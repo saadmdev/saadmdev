@@ -1,111 +1,138 @@
-<!-- ===================== HEADER ===================== -->
+<!-- HERO SECTION: Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=A855F7&center=true&vCenter=true&width=900&height=55&lines=%3E+booting+saad.dev...;%3E+access+granted;Hi%2C+I'm+Muhammad+Saad+%F0%9F%91%8B" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&height=50&lines=Hi+I'm+Muhammad+Saad;Software+Engineer+%7C+MERN+Stack+%7C+Web+Developer+%7C+AI+Explorer" alt="Typing Intro Animation" />
 </p>
 
-<h1 align="center">MUHAMMAD SAAD</h1>
-<h3 align="center">Full-Stack Developer &nbsp;•&nbsp; MERN Stack &nbsp;•&nbsp; AI Explorer</h3>
+<h1 align="center">Transforming Code into Impact</h1>
+
+<h3 align="center">
+   Final Year Software Engineering Student &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-saad-a4779b38a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Saad-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:devsaadm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-devsaadm%40gmail.com-EC4899?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-devsaadm@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="#"> <!-- 🔧 add your portfolio URL here -->
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-6366F1?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=saadmdev&label=Profile+Views&color=6366F1&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-### `$ whoami`
+## 🔹 About Me
 
-```bash
-> Muhammad Saad
-> Final Year Software Engineering Student
-> Shipping full-stack apps, exploring AI/ML on the side
-> Status: probably debugging something right now
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=50&lines=Software+Engineering+Student;Building+Dynamic+Web+Applications;Creating+Solutions+Through+Code" alt="About Me Animation" />
+</div>
 
-<!-- 🔧 Optional: add your location / education / current role here, e.g.
-| Field        | Value                        |
-|--------------|-------------------------------|
-| 🎓 Education | BS Software Engineering, [Year] |
-| 📍 Location  | [Your City, Country]          |
-| 💼 Focus     | Full-Stack Web + AI Integrations |
--->
+<br/>
 
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,php,mysql,mongodb,redis,git,github,docker,figma,cpp,java,py" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadmdev&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔒 X1 Shuffle</h3>
-      <p><em>Live production platform — source private</em></p>
-      <img src="https://img.shields.io/badge/status-in_production-22C55E?style=flat-square"/>
-      <br/><br/>
-      <!-- 🔧 replace # with your actual live URL -->
-      <a href="#"><img src="https://img.shields.io/badge/🔗_Live_Site-Visit-A855F7?style=flat-square"/></a>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+      <br><strong>Full-Stack Development</strong>
+      <br><em>MERN Stack</em>
+      <br><em>Modern Web Apps</em>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Bionex</h3>
-      <p><em>E-commerce web application</em></p>
-      <img src="https://img.shields.io/badge/stack-MERN-6366F1?style=flat-square"/>
-      <br/><br/>
-      <!-- 🔧 replace repo name below if different -->
-      <a href="https://github.com/saadmdev/bionex"><img src="https://img.shields.io/badge/📂_Repo-View_Code-EC4899?style=flat-square"/></a>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="AI"/>
+      <br><strong>AI & ML</strong>
+      <br><em>Exploring APIs</em>
+      <br><em>Data-Driven Apps</em>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Car Rental Management System</h3>
-      <p><em>Full booking &amp; fleet management system</em></p>
-      <img src="https://img.shields.io/badge/stack-PHP_%2F_MySQL-6366F1?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/saadmdev/car-rental-management-system"><img src="https://img.shields.io/badge/📂_Repo-View_Code-EC4899?style=flat-square"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>➕ More Coming Soon</h3>
-      <p><em>New projects are shipping — check back for updates</em></p>
-      <img src="https://img.shields.io/badge/status-in_progress-FACC15?style=flat-square"/>
+    <td align="center" width="250">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="Backend"/>
+      <br><strong>Backend & Scripting</strong>
+      <br><em>PHP, Node.js</em>
+      <br><em>MySQL, MongoDB</em>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Currently
+## 🔹 My Toolbox
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=35&lines=Building+full-stack+apps+with+MERN;Exploring+AI+APIs+%26+automation;Always+shipping+something+new" alt="Currently" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,php,mysql,mongodb,postgres,redis,threejs,git,github,githubactions,docker,nginx,vercel,netlify,vscode,postman,figma,cpp,java,py,bash,linux" />
 </p>
 
 ---
 
-<p align="center"><em>"Write code that others not only understand, but admire."</em></p>
+## 🔹 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadmdev&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmdev&layout=compact&theme=react&hide_border=true" width="48%" />
+</p>
+
+
+---
+
+## 🔹 Featured Projects
+
+<!-- Row 1 -->
+<div align="center">
+
+  <a href="https://github.com/saadmdev/fullstack-ecommerce-mern" title="Full Stack MERN eCommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=fullstack-ecommerce-mern&theme=react&hide_border=true" height="150"/>
+  </a>
+
+  <a href="https://github.com/saadmdev/car-rental-management-system" title="Car Rental Management System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=car-rental-management-system&theme=react&hide_border=true" height="150"/>
+  </a>
+
+</div><br/>
+
+<!-- Row 2 -->
+<div align="center">
+
+  <a href="https://github.com/saadmdev/Pathfinding-Visualizer" title="Pathfinding Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=Pathfinding-Visualizer&theme=react&hide_border=true" height="150"/>
+  </a>
+
+  <a href="https://github.com/saadmdev/ocean-explorer" title="Ocean Explorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmdev&repo=ocean-explorer&theme=react&hide_border=true" height="150"/>
+  </a>
+
+</div>
+
+---
+
+## 🔹 Current Focus
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=40&lines=Currently+Exploring+and+Building..." alt="Current Focus Animation" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50" alt="React" />
+      <br/>
+      <h3>React & Next.js</h3>
+      <p><em>Building modern UI/UX interfaces</em></p>
+    </td>
+    <td align="center" width="300">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80" alt="Cloud" />
+      <br/>
+      <h3>Web APIs & AI</h3>
+      <p><em>Exploring AI APIs and automation</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadmdev&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">"Write code that others not only understand, but admire."</p>
