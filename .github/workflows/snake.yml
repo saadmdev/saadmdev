@@ -5,7 +5,11 @@ on:
     # Every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  
+
+# This permission block is required to push the generated files
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
