@@ -168,6 +168,16 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadmdev&theme=tokyo-night&hide_border=true" width="100%"/>
 
+<br><br>
+
+<h3>🐍 Contribution Snake</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saadmdev/saadmdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saadmdev/saadmdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saadmdev/saadmdev/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -483,48 +493,3 @@ Software Engineering
                ├── Embeddings
                ├── Computer Vision
                └── AI APIs
-```
-
----
-
-## 🌐 Find Me Online
-
-<p align="center">
-
-<a href="https://saadmuhammadofficial.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-saadmuhammadofficial.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/muhammad-saad-a4779b38a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Saad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/saadmdev" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-saadmdev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:devsaadm@gmail.com">
-<img src="https://img.shields.io/badge/Email-devsaadm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=BUILD.%20LEARN.%20SHIP.&fontSize=22&fontColor=ffffff" width="100%" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=saadmdev&label=PROFILE%20VISITS&color=00F0FF&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<i>“Turning ideas into software, one project at a time.”</i>
-
-</div>
